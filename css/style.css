@@ -42,3 +42,14 @@ h4 {
 .btn {
 	background-color: #4aaaa5;
 }
+.left {
+	float:left;	
+}
+.bottom {
+	padding-bottom: 35px;
+}
+
+.img-repsonsive {
+	padding-right: 10px;
+}
+
